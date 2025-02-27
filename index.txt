@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<link rel="stylesheet"type="text/css"href="estilos.css">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DR. DIEGO GORJON </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<img src="escritorio/justicia.png" alt="balanza justicia dorada con fondo negro">
+    <header>
+        <h1>DR. DIEGO GORJON </h1>
+    </header>
+    <main>
+        <h2>Abogado con mas de 20 años de experiencia</h2>
+<p>Ubicado en Lomas de Zamora, Buenos Aires</p>
+<p>Contacto vía WhatsApp: 1151506373</p>
+        <p>CONSULTAS GRATIS</p>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
