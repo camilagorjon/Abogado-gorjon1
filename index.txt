@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<link rel="stylesheet"type="text/css"href="estilos.css">
+<link rel="stylesheet"type="text/css" href="estillos.css">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DR. DIEGO GORJON </title>
+    <meta name="description" content= "estudio jurídico Dr Gorjon Diego ubicado en Zona Sur Lomas de zamora y alrededores,dictando innformacion de contacto con el abogado, abogado de familia divorcio penal sucesiones estudio juridico completo">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Gorjon Diego Rodrigo">
+<title>DR. DIEGO GORJON </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<img src="escritorio/justicia.png" alt="balanza justicia dorada con fondo negro">
     <header>
         <h1>DR. DIEGO GORJON </h1>
     </header>
